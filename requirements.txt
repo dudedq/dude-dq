@@ -1,0 +1,6 @@
+streamlit
+pymupdf
+beautifulsoup4
+requests
+supabase
+openai
